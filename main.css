@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: beige;
+  color: burlywood;
+}
+h1 {
+  font-size: 80px;
+  font-family: "Comic Sans MS";
+}
+a {
+  color: burlywood;
+  font-size: 35px;
+}
