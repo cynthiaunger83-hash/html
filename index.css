@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  font-size: large;
+}
+li {
+  list-style-type: none;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 40;
+  font-family: georgia;
+}
