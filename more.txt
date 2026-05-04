@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Favicon Example</title>
+        <link rel="icon" type="image/jpg" href="favicon.jpg" />
+    </head>
+    <body>
+        <h1>Favicons</h1>
+        <p>To demo favicons, we will put an image of</p>
+        <p>Recommended Size of a favicon is 96 by 96 pixels</p>
+        <p>Supported file types include:</p>
+        <ul>
+            <!-- unordered list-->
+            <li>
+                <!-- List item -->
+                .ico
+            </li>
+            <li>.png</li>
+            <li>.gif</li>
+            <li>.jpg or jpeg</li>
+            <li>.svg</li>
+        </ul>
+        <p>To add a favicon add the following to the &lt;head&gt; section.</p>
+        <pre>
+            <code>
+&lt;head&gt;
+    &lt;link rel="icon" type="image/jpg" href="favicon.jpg" &gt;
+&lt;/head&gt;
+            
+        </pre>
+    </body>
+</html>
+ </code>
