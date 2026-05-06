@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  background-color: beige;
+  color: burlywood;
+}
+h1 {
+  font-size: 80px;
+  font-family: "Comic Sans MS";
+}
+a {
+  color: burlywood;
+  font-size: 20px;
+}
+hr {
+  color: darkslategray;
+}
+h5 {
+  font-size: 20px;
+}
+h4 {
+  font-size: 25px;
+}
+h3 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 35px;
+}
