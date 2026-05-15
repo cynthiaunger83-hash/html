@@ -10,35 +10,40 @@
   </head>
   <body>
     <div>
-      <h1>CMP</h1>
-      <h2>what does CMP stand for</h2>
-      <h3>it stands for computer programming</h3>
+      <header>
+        <h1>CMP</h1>
+        <h2>what does CMP stand for</h2>
+        <h3>it stands for computer programming</h3>
+      </header>
       <h2>what can you do in the cmp class</h2>
-      <a href="what can you do.html">things to do</a>
-      <h2>what do the students of CMP think of the class?</h2>
-      <a href="what do the students think.html">student replys</a>
-      <h2>about the school</h2>
-      <a href="the school.html">about the school</a>
-      <h2>The teacher of CMP</h2>
-      <a href="the teacher.html">the teacher</a>
-      <h2>Duck Debugging</h2>
-      <a href="duck debuging.html">duck debugging</a>
-      <h2>The creator</h2>
-      <a href="the creator.html">the creator</a>
+      <main>
+        <a href="what can you do.html">things to do</a>
+        <h2>what do the students of CMP think of the class?</h2>
+        <a href="what do the students think.html">student replys</a>
+        <h2>about the school</h2>
+        <a href="the school.html">about the school</a>
+        <h2>The teacher of CMP</h2>
+        <a href="the teacher.html">the teacher</a>
+        <h2>Duck Debugging</h2>
+        <a href="duck debuging.html">duck debugging</a>
+        <h2>The creator</h2>
+        <a href="the creator.html">the creator</a>
+      </main>
     </div>
-
     <br />
-    <p>click the duck</p>
-    <img id="duck" src="images/duck.gif" alt="fdhgkdfh" />
-    <br />
-    <h6>this website was a pain to make 😭</h6>
-    <script>
-      const duck = document.getElementById("duck");
-      duck.addEventListener("click", () => {
-        const audio = new Audio("duck.mp3");
-        audio.play();
-      });
-    </script>
+    <footer>
+      <p>click the duck</p>
+      <img id="duck" src="images/duck.gif" alt="duck gif" />
+      <br />
+      <p><small>this website was a pain to make 😭</small></p>
+      <script>
+        const duck = document.getElementById("duck");
+        duck.addEventListener("click", () => {
+          const audio = new Audio("duck.mp3");
+          audio.play();
+        });
+      </script>
+    </footer>
     <!--this is js exaample-->
   </body>
 </html>
