@@ -1,0 +1,25 @@
+body {
+  background-color: aquamarine;
+}
+h1 {
+  text-align: center;
+  background-color: rgb(5, 87, 87);
+  padding: 10px;
+  font-size: 50px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  border-radius: 20px;
+  max-width: 400px;
+  margin: 20px auto;
+  border-style: groove;
+  border-color: rgb(0, 30, 31);
+  color: rgb(100, 205, 237);
+}
+p {
+  text-align: right;
+  font-size: large;
+  color: rgb(0, 78, 74);
+}
+a {
+  color: rgb(0, 78, 74);
+}
