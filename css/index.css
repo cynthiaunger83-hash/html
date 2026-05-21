@@ -1,12 +1,21 @@
 body {
   text-align: center;
   font-size: large;
+  color: rgb(0, 162, 255);
+  background-color: aliceblue;
 }
 li {
   list-style-type: none;
+  font-family: "Courier New", Courier, monospace;
 }
 h1 {
   font-size: 50px;
-  font-weight: 40;
-  font-family: georgia;
+  font-weight: bold;
+  font-family: cursive;
+}
+a {
+  color: skyblue;
+}
+p {
+  font-family: monospace, cursive;
 }
